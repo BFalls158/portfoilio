@@ -55,7 +55,7 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Calendar*/
-    GitHubCalendar(".github-graph", "bfalls158");
+    GitHubCalendar("#github-graph", "bfalls158");
     
     
     /* Github Activity Feed*/
